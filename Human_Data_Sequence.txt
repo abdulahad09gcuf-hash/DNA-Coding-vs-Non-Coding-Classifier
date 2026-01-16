@@ -1,0 +1,7 @@
+sequence	class
+ATGCGTAC	Coding
+TGCATGCA	Non-Coding
+GGCATGCC	Coding
+ATCGATCG	Non-Coding
+CGTACGTA	Coding
+TACGATCG	Non-Coding
